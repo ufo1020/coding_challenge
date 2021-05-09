@@ -1,0 +1,6 @@
+{
+    "input_path": "/usr/data/input.csv",
+    "output_path": "/usr/data/output/",
+    "encrypt_columns":["first_name","last_name","address"]
+}
+

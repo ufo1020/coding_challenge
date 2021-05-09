@@ -1,0 +1,7 @@
+{
+    "file_scheme": "file:///",
+    "input_path": "/home/hadoop/unit-test/input.csv",
+    "output_path": "/home/invalid-user/unit-test/output/",
+    "encrypt_columns":["first_name","last_name","address"]
+}
+
