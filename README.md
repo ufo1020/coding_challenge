@@ -12,6 +12,6 @@
 - Configurations are stored separately in a settings file
 - Unit tested and all passed
 
-![unit test results] (/ref/unit-test.jpg)
+![unit test results](./ref/unit-test.jpg)
 
 
